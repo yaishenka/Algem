@@ -5,7 +5,7 @@
 3)uploaded
 4)uploaded
 5)uploaded
-6)uploaded
+6)uploaded V 2.0 поправил использование теорема
 7)uploaded
 8)uploaded
 9)uploaded
