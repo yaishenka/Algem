@@ -22,7 +22,11 @@ for task_number in list:
         img.convert("RGB").save(buf, format="pdf")
         # once image is PDF, it can be appended
         new_task_file.addPage(PdfFileReader(buf).getPage(0))
-    outputStream = open(main_dir + task_number + ' билет'+ '.pdf', "wb")
+    folder = 'analit/'
+    if (int(task_number) > 17):
+        task_number = (int(task_number) - 17).__str__()
+        folder = 'linal/'
+    outputStream = open(main_dir + folder + task_number  + ' билет'+ '.pdf', "wb")
     new_task_file.write(outputStream)
     outputStream.close()
 
