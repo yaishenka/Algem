@@ -19,10 +19,10 @@
 17)uploaded
 ## P2
 1)uploaded
-2)written
-3)written
-4)written
-5)written
+2)uploaded
+3)uploaded
+4)uploaded
+5)uploaded
 6)-
 7)-
 8)-
