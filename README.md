@@ -5,7 +5,7 @@
 3)uploaded
 4)uploaded
 5)uploaded
-6)uploaded поправил использование теоремы, поправил -[b,a] на -[a,b]
+6)uploaded
 7)uploaded
 8)uploaded
 9)uploaded
