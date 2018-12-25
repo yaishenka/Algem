@@ -35,8 +35,8 @@
 15)uploaded
 16)uploaded
 17)uploaded
-18)-
-19)-
+18)uploaded
+19)uploaded
 20)uploaded
 21)-
 22)-
